@@ -25,3 +25,6 @@ A free, local-first, English-language recipe PWA.
 
 
 Crumb 1.1: screenshot OCR via Tesseract.js 5.1.1 CDN, performed in browser. Open Add recipe, upload images, tap Read screenshots, review, then Fill recipe fields. OCR needs internet. Replace index.html and sw.js in repository root; stored recipes are preserved.
+
+
+Crumb 1.2: Add a cover photo from iPhone Photos in Add/Edit recipe. Images are compressed and included in JSON backups. The save button has extra bottom clearance above the fixed navigation. Local browser storage is limited: export backups regularly.
