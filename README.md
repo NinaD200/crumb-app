@@ -22,3 +22,6 @@ A free, local-first, English-language recipe PWA.
 - No cloud sync, account login, AI analysis, automatic Instagram import, or photo uploads.
 - An optional image URL must be hosted elsewhere and may not be available offline.
 - For best iPhone icon support, a PNG apple-touch-icon can be added later.
+
+
+Crumb 1.1: screenshot OCR via Tesseract.js 5.1.1 CDN, performed in browser. Open Add recipe, upload images, tap Read screenshots, review, then Fill recipe fields. OCR needs internet. Replace index.html and sw.js in repository root; stored recipes are preserved.
